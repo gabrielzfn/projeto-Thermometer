@@ -17,11 +17,11 @@ Thermometer é um projeto simples para calcular a média de temperatura máxima 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/gabrielzfn/tempmeter.git
+   git clone https://github.com/gabrielzfn/projeto-Thermometer.git
    ```
 2. Acesse o diretório do projeto:
    ```bash
-   cd thermometer
+   cd projeto-Thermometer
    ```
 3. Execute o arquivo principal:
    ```bash

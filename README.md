@@ -1,19 +1,22 @@
-# Thermometer
+# Thermometer: Calculador de média de temperatura
 
 Thermometer é um projeto simples para calcular a média de temperatura máxima anual com base nos dados fornecidos pelo usuário.
 
-## Funcionalidades
 
+## Sobre o projeto:
+
+### Funcionalidades:
 - Permite a entrada manual de temperaturas máximas registradas ao longo do ano.
 - Calcula e exibe a média das temperaturas fornecidas.
 
+<br>
 
-## Requisitos
+### Tecnologias Utilizadas:
+- Python 3.x
 
-- Python 3.x instalado na máquina.
+<br>
 
-
-## Como usar
+### Como usar:
 
 1. Clone este repositório:
    ```bash
